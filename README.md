@@ -1,1 +1,2 @@
-# TOM-AND-JERRY
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
